@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Body Mass Index</string>
+    <string name="heightHint">(m)</string>
+    <string name="weightHint">(kg)</string>
+    <string name="heightTile">Height</string>
+    <string name="weightTitle">Weight</string>
+    <string name="resetBtn">RESET</string>
+    <string name="calculateBtn">CALCULATE BMI</string>
     <!-- TODO -->
 </resources>
